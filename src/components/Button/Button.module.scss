@@ -1,2 +1,17 @@
 .root{
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    margin: 10px;
+    border: none;
+    outline: none;
+}
+
+.increase{
+    background-color: green;
+}
+
+.decrease{
+    background-color: red;
 }
